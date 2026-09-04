@@ -1,0 +1,6 @@
+{
+  "name": "洪武大帝",
+  "description": "明太祖朱元璋开国史诗 RPG 网页游戏，体验从托钵乞僧、红巾从军到金陵定鼎、开创大明的传奇征途。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
